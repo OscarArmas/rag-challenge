@@ -22,6 +22,7 @@ st.set_page_config(page_title=PAGE_TITLE, layout="wide")
 model_geminis = genai.GenerativeModel(
     model_name=MODEL_NAME,
     generation_config=GENERATION_CONFIG,
+    system_instruction="Eres un asistente AI que responde preguntas sobre HistoriaCard. No tienes identidad propia ni acceso a información externa."
 )
 
 def detect_intent(message):

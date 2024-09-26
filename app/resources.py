@@ -138,21 +138,17 @@ def generate_prompt_from_df(df: pd.DataFrame, question: str) -> str:
 
     prompt_template = PromptTemplate(
         input_variables=["question", "items"],
-        template="""
-        Te presento una pregunta: {question}
+        template=f"""
+            Pregunta: {question}
+            Contexto: {items}
 
-        Contexto: 
-        {items}
-
-        Reglas para generar la respuesta:
-        - Si la pregunta es un saludo o una cortesía (como "hola", "¿cómo estás?", etc.), responde amablemente y redirige la conversación hacia cómo puedes ayudar con preguntas sobre HistoriaCard.
-        - Proporciona una respuesta clara, concisa y directamente relacionada con la pregunta.
-        - Si hay múltiples partes en la pregunta, asegúrate de responder a todas ellas.
-        - Usa un tono educado, profesional, pero amigable.
-        - Si la información proporcionada no es suficiente para responder de manera precisa, o no esta en el historico, responde: "Lo siento, no tengo suficiente información para responder a esta pregunta de manera precisa basada en los datos proporcionados."
-        - Si la pregunta no está relacionada con HistoriaCard, responde brevemente y redirige la conversación hacia el propósito de ayudar con preguntas sobre HistoriaCard.
-        - No agregues información adicional que no esté presente en el contexto.
-
+            Instrucciones:
+            1. Responde directamente a la pregunta basándote SOLO en el contexto proporcionado.
+            2. Si el contexto no contiene información suficiente, di: "No puedo responder completamente a esta pregunta."
+            3. No inventes información ni hagas suposiciones más allá del contexto dado.
+            4. No te refieras a ti mismo como "yo" o "me". No uses frases como "la información que me has proporcionado".
+            5. Mantén un tono profesional y objetivo.
+            6. No sugieras buscar más información o contactar a servicio al cliente.
         """,
     )
 

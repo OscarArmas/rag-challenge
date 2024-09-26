@@ -15,7 +15,7 @@ PAGE_TITLE = "Chatbot Comparador: TF-IDF vs Embeddings"
 
 
 GENERATION_CONFIG = {
-    "temperature": 0.7,
+    "temperature": 0,
     "top_p": 0.95,
     "top_k": 64,
     "max_output_tokens": 8192,
