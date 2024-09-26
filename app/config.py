@@ -10,7 +10,7 @@ if not GOOGLE_API_KEY:
 FOLDER_PATH = "/Users/oscararmas/Desktop/StoriChallenge/"
 MODEL_NAME = "gemini-1.5-flash"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-COLLECTION_NAME = "document_embeddings_v2"
+COLLECTION_NAME = "document_embeddings_v3"
 PAGE_TITLE = "Comparison Chatbot: TF-IDF vs Embeddings"
 
 

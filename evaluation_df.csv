@@ -1,0 +1,138 @@
+question,response_embeddings,response_tf_idf,question,expected_keywords,type,response_expected,precision_tf_idf,recall_tf_idf,cosine_sim_tf_idf,exact_match_tf_idf,precision_embeddings,recall_embeddings,cosine_sim_embeddings,exact_match_embeddings
+¿En qué año fue fundada HistoriaCard?,"HistoriaCard fue fundada en 2018. 
+","HistoriaCard fue fundada en 2018. 
+",¿En qué año fue fundada HistoriaCard?,"2018, fundada en 2018",simple,HistoriaCard fue fundada en 2018.,0.16666666666666666,0.5,0.9999999999999999,1.0,0.16666666666666666,0.5,0.9999999999999999,1.0
+¿Cuál es el monto mínimo y máximo de los préstamos personales de HistoriaCard?,"El monto mínimo de los préstamos personales de HistoriaCard es de $10,000 MXN y el monto máximo es de $100,000 MXN. 
+","El monto mínimo de los préstamos personales de HistoriaCard es de $10,000 MXN y el máximo es de $100,000 MXN. 
+",¿Cuál es el monto mínimo y máximo de los préstamos personales de HistoriaCard?,"$10,000, $100,000 MXN",simple,"Los préstamos personales van desde $10,000 hasta $100,000 MXN.",0.0,0.0,0.33350277901236325,0.0,0.0,0.0,0.3199146666919741,0.0
+¿Qué porcentaje de interés anual ofrece la tarjeta de débito HistoriaCard sobre el saldo promedio mensual?,"La tarjeta de débito HistoriaCard ofrece hasta 4% de interés anual sobre el saldo promedio mensual. 
+","Hasta 4% de interés anual sobre saldo promedio mensual. 
+",¿Qué porcentaje de interés anual ofrece la tarjeta de débito HistoriaCard sobre el saldo promedio mensual?,"4%, interés anual, saldo promedio",simple,La tarjeta de débito HistoriaCard ofrece hasta un 4% de interés anual sobre el saldo promedio mensual.,0.0,0.0,0.6386053456078566,0.0,0.0,0.0,0.9465199391421726,0.0
+¿Qué idiomas están disponibles en las opciones de la app HistoriaCard?,"Español e inglés. 
+","Según el contexto proporcionado, la app HistoriaCard está disponible en **español e inglés**. 
+",¿Qué idiomas están disponibles en las opciones de la app HistoriaCard?,"español, inglés",simple,La app HistoriaCard está disponible en español e inglés.,0.125,1.0,0.7092972666062739,0.0,0.5,1.0,0.379978361591008,0.0
+¿Qué sistemas de seguridad utiliza HistoriaCard para proteger a sus usuarios?,"HistoriaCard utiliza cifrado de extremo a extremo, autenticación biométrica, sistemas de detección de fraudes con IA, alertas de seguridad en tiempo real y actualizaciones constantes de seguridad para proteger a sus usuarios. 
+","No puedo responder completamente a esta pregunta. 
+",¿Qué sistemas de seguridad utiliza HistoriaCard para proteger a sus usuarios?,"cifrado de extremo a extremo, autenticación biométrica, detección de fraudes con IA",simple,"HistoriaCard utiliza cifrado de extremo a extremo, autenticación biométrica y sistemas de detección de fraudes con IA para proteger a sus usuarios.",0.0,0.0,0.0,0.0,0.0,0.0,0.8017033497936474,0.0
+¿Cuál es la tasa de interés anual de la tarjeta de crédito HistoriaCard?,"La tasa de interés anual de la tarjeta de crédito HistoriaCard es del 24% al 36%. 
+","La tasa de interés anual de la tarjeta de crédito HistoriaCard es del 24% al 36%. 
+",¿Cuál es la tasa de interés anual de la tarjeta de crédito HistoriaCard?,"24%, 36%, tasa de interés anual",simple,La tasa de interés anual de la tarjeta de crédito HistoriaCard es del 24% al 36%.,0.0,0.0,1.0000000000000002,1.0,0.0,0.0,1.0000000000000002,1.0
+¿Qué beneficios adicionales ofrece la tarjeta de crédito HistoriaCard?,"Los beneficios adicionales que ofrece la tarjeta de crédito HistoriaCard son: programa de recompensas, seguro de protección de compras, promociones exclusivas y asistencia en viajes. 
+","La tarjeta de crédito HistoriaCard ofrece **programa de recompensas, seguro de protección de compras, promociones exclusivas, asistencia en viajes**.
+",¿Qué beneficios adicionales ofrece la tarjeta de crédito HistoriaCard?,"programa de recompensas, seguro de protección de compras, promociones exclusivas, asistencia en viajes",simple,"La tarjeta de crédito HistoriaCard ofrece beneficios como programa de recompensas, seguro de protección de compras, promociones exclusivas y asistencia en viajes.",0.0,0.0,0.941787949759048,0.0,0.0,0.0,0.8691093933646088,0.0
+¿Qué tipo de soporte al cliente ofrece HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","HistoriaCard ofrece soporte al cliente a través de chat en vivo 24/7, un centro de ayuda con base de conocimientos, un sistema de tickets para problemas complejos y llamadas de emergencia para situaciones urgentes. 
+",¿Qué tipo de soporte al cliente ofrece HistoriaCard?,"chat en vivo 24/7, centro de ayuda, sistema de tickets, llamadas de emergencia",simple,"HistoriaCard ofrece chat en vivo 24/7, centro de ayuda, sistema de tickets y llamadas de emergencia.",0.0,0.0,0.6824718392818209,0.0,0.0,0.0,0.0,0.0
+¿Qué tecnologías utiliza HistoriaCard para análisis de crédito personalizado?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Qué tecnologías utiliza HistoriaCard para análisis de crédito personalizado?,"inteligencia artificial, IA",simple,HistoriaCard utiliza inteligencia artificial para análisis de crédito personalizado.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+¿Cuáles son las opciones de pago de la tarjeta de crédito HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuáles son las opciones de pago de la tarjeta de crédito HistoriaCard?,"pago mínimo, 5% del saldo, $200 MXN",simple,El pago mínimo mensual de la tarjeta de crédito HistoriaCard es el 5% del saldo o $200 MXN.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+¿Cómo contribuye HistoriaCard a la inclusión financiera en México?,"HistoriaCard contribuye a la inclusión financiera en México a través de:
+
+* **Soluciones innovadoras y accesibles:** Ofrece productos financieros adaptados a las necesidades de los consumidores mexicanos, incluyendo aquellos con poco o ningún historial crediticio.
+* **Educación financiera:** Implementa programas de educación financiera para empoderar a los usuarios a mejorar su historial crediticio y tomar decisiones financieras informadas.
+* **Mejora del historial crediticio:** Ayuda a los usuarios a construir y mejorar su historial crediticio, lo que les permite acceder a mejores oportunidades financieras en el futuro.
+* **Colaboraciones con ONGs:** Trabaja con organizaciones no gubernamentales para llevar herramientas y educación financiera a comunidades vulnerables. 
+","HistoriaCard contribuye a la inclusión financiera en México a través de:
+
+* **Soluciones financieras innovadoras y accesibles:** Ofreciendo productos adaptados a las necesidades de los clientes, incluyendo aquellos con historial crediticio limitado.
+* **Programas de educación financiera:** Brinda herramientas para mejorar el historial crediticio y tomar decisiones financieras informadas.
+* **Colaboraciones con ONGs:** Apoya a comunidades vulnerables y promueve la inclusión financiera en México.
+* **Compromiso con la sostenibilidad:** Reduce su huella de carbono y busca un impacto social positivo. 
+
+HistoriaCard busca transformar la vida financiera de sus clientes y construir un camino hacia la inclusión financiera y educación en México. 
+",¿Cómo contribuye HistoriaCard a la inclusión financiera en México?,"educación financiera, productos accesibles, programas en la comunidad, alianzas con ONGs",complex,"HistoriaCard contribuye a la inclusión financiera en México proporcionando educación financiera, ofreciendo productos accesibles y colaborando con ONGs para ayudar a comunidades vulnerables.",0.0,0.0,0.4754822373113231,0.0,0.0,0.0,0.3402957339837492,0.0
+¿De qué manera HistoriaCard utiliza la tecnología para mejorar la seguridad y la experiencia del usuario?,"La información proporcionada solo describe las características de la aplicación HistoriaCard y no menciona específicamente cómo se utiliza la tecnología para mejorar la seguridad y la experiencia del usuario.  No puedo responder completamente a esta pregunta. 
+","HistoriaCard utiliza la tecnología para mejorar la seguridad y la experiencia del usuario a través de:
+
+* **Cifrado de extremo a extremo:** Protege la información sensible durante la transmisión.
+* **Autenticación biométrica:** Permite un acceso seguro y personalizado.
+* **Sistemas de detección de fraudes con IA:** Identifica y previene actividades sospechosas.
+* **Alertas de seguridad en tiempo real:** Informa a los usuarios sobre posibles amenazas.
+* **Actualizaciones constantes de seguridad:** Mantiene los sistemas protegidos contra las últimas amenazas.
+
+Además, HistoriaCard ofrece experiencias personalizadas a través de:
+
+* **Adaptación a necesidades individuales:** Ofrece herramientas educativas y programas de recompensas personalizados. 
+* **Gestión de perfil de usuario:** Permite actualizar datos personales, configurar preferencias de seguridad y gestionar dispositivos conectados.
+* **Historial de seguridad y accesos:** Proporciona una visión completa de la actividad de la cuenta. 
+",¿De qué manera HistoriaCard utiliza la tecnología para mejorar la seguridad y la experiencia del usuario?,"IA, detección de fraudes, blockchain, autenticación biométrica, actualizaciones de seguridad",complex,"HistoriaCard utiliza IA para detección de fraudes, explora blockchain para mayor seguridad, implementa autenticación biométrica y realiza actualizaciones constantes de seguridad para mejorar la experiencia del usuario.",0.011363636363636364,0.2,0.45949549629945563,0.0,0.0,0.0,0.2999670425537716,0.0
+Describe cómo el programa de recompensas de HistoriaCard beneficia a los usuarios.,"El programa de recompensas HistoriaCard beneficia a los usuarios al permitirles canjear puntos por efectivo, descuentos en compras en comercios afiliados, vuelos y hoteles, así como acceso a experiencias únicas. También ofrece una amplia gama de opciones para redimir puntos y está diseñado para premiar el uso responsable de la tarjeta. 
+","El programa de recompensas de HistoriaCard beneficia a los usuarios al premiar el uso responsable de la tarjeta, ofreciendo una amplia gama de opciones para redimir puntos. 
+",Describe cómo el programa de recompensas de HistoriaCard beneficia a los usuarios.,"canjeo de puntos, efectivo, descuentos, vuelos, hoteles, experiencias únicas",complex,"El programa de recompensas permite canjear puntos por efectivo, descuentos, vuelos, hoteles y experiencias únicas, beneficiando a los usuarios por el uso de la tarjeta.",0.0,0.0,0.43083172892070865,0.0,0.08888888888888889,0.6666666666666666,0.532641112513326,0.0
+¿Qué estrategias futuras tiene HistoriaCard para expandir su base de usuarios?,"No puedo responder completamente a esta pregunta. El contexto proporcionado no incluye información sobre las estrategias futuras de HistoriaCard para expandir su base de usuarios. 
+","No puedo responder completamente a esta pregunta. 
+",¿Qué estrategias futuras tiene HistoriaCard para expandir su base de usuarios?,"expansión nacional e internacional, nuevos productos financieros, marketing digital, colaboraciones estratégicas",complex,"HistoriaCard planea expandirse nacional e internacionalmente, desarrollar nuevos productos financieros, invertir en marketing digital y establecer colaboraciones estratégicas.",0.0,0.0,0.0,0.0,0.0,0.0,0.02451268653787982,0.0
+¿Cómo facilita HistoriaCard la gestión personalizada de finanzas para sus usuarios?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cómo facilita HistoriaCard la gestión personalizada de finanzas para sus usuarios?,"interfaz intuitiva, herramientas de planificación, panel de control, personalización de notificaciones",complex,"Ofrece una interfaz intuitiva con herramientas de planificación, un panel de control y notificaciones personalizadas para facilitar la gestión financiera.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Explica cómo los testimonios de clientes reflejan el impacto de HistoriaCard en la vida de sus usuarios.,"Los testimonios de clientes como los de Ana Martínez y Juan Carlos Hernández reflejan el impacto positivo de HistoriaCard en la vida de sus usuarios al mostrar cómo la herramienta ayuda a **mejorar la educación financiera** y la **gestión del crédito**. Ana Martínez aprendió a manejar responsablemente el crédito, mientras que Juan Carlos Hernández logró reconstruir su historial crediticio. Esto demuestra que HistoriaCard no solo ofrece servicios financieros, sino que también empodera a sus usuarios para que tomen el control de su situación financiera. 
+","Los testimonios de clientes de HistoriaCard reflejan el impacto positivo que la fintech tiene en la vida de sus usuarios. 
+
+* **Ana Martínez** nos muestra cómo HistoriaCard ha contribuido a su **aprendizaje de manejo responsable del crédito**, lo que le permite tomar decisiones financieras más inteligentes.
+* **Juan Carlos Hernández** ejemplifica la capacidad de HistoriaCard para ayudar a **reconstruir el historial crediticio**,  permitiendo a los usuarios acceder a mejores oportunidades financieras. 
+
+Estos testimonios resaltan la visión y misión de HistoriaCard: transformar la vida financiera de sus clientes a través de la educación y la inclusión financiera.
+",Explica cómo los testimonios de clientes reflejan el impacto de HistoriaCard en la vida de sus usuarios.,"Ana Martínez, manejo responsable del crédito, Juan Carlos Hernández, reconstrucción de historial crediticio",complex,Los testimonios de Ana Martínez y Juan Carlos Hernández muestran cómo HistoriaCard ha mejorado el manejo del crédito y el historial crediticio de sus usuarios.,0.0,0.0,0.45756125034727113,0.0,0.0,0.0,0.49151366752427333,0.0
+¿De qué manera HistoriaCard promueve la educación financiera entre sus usuarios?,"HistoriaCard promueve la educación financiera a través de artículos y guías sobre finanzas personales, calculadoras financieras interactivas, cursos en línea con certificaciones y asesoramiento financiero personalizado para usuarios premium. 
+","HistoriaCard promueve la educación financiera a través de:
+
+* **Artículos y guías sobre finanzas personales:** Esto permite a los usuarios aprender sobre temas como presupuestos, ahorro, inversión y crédito.
+* **Calculadoras financieras interactivas:** Estas herramientas facilitan la comprensión de conceptos como el interés compuesto o la amortización de préstamos.
+* **Cursos en línea con certificaciones:** Ofrece formación especializada en finanzas personales, lo que permite a los usuarios adquirir habilidades y conocimientos.
+* **Asesoría financiera personalizada para usuarios premium:** Proporciona una atención individualizada para ayudar a los usuarios a alcanzar sus metas financieras. 
+",¿De qué manera HistoriaCard promueve la educación financiera entre sus usuarios?,"artículos, guías, calculadoras financieras, cursos en línea, asesoría personalizada",complex,"Promueve la educación financiera mediante artículos, guías, calculadoras, cursos en línea y asesoría personalizada.",0.029411764705882353,0.4,0.2850082343292358,0.0,0.06666666666666667,0.4,0.3884832390687526,0.0
+¿Cómo está planeando HistoriaCard integrar tecnologías futuras como DeFi en sus servicios?,"No puedo responder completamente a esta pregunta. El contexto menciona la investigación sobre la integración de DeFi, pero no detalla cómo se planea integrar estas tecnologías en los servicios de HistoriaCard. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cómo está planeando HistoriaCard integrar tecnologías futuras como DeFi en sus servicios?,"investigación, integración de finanzas descentralizadas, DeFi, innovación continua",complex,Está investigando la integración de DeFi como parte de su compromiso con la innovación continua para mejorar sus servicios.,0.0,0.0,0.0,0.0,0.06666666666666667,0.5,0.24029490799360145,0.0
+Describe las características y beneficios de la tarjeta de débito HistoriaCard.,"La tarjeta de débito HistoriaCard ofrece una experiencia bancaria completa, segura y sin complicaciones. Es ideal para el manejo de finanzas sin crédito. Se emite gratuitamente al abrir una cuenta en la app y no tiene comisiones mensuales ni de manejo de cuenta. Permite retiros gratuitos en cajeros HistoriaCard, $30 MXN en otros, transferencias SPEI ilimitadas y sin costo, y hasta 4% de interés anual sobre el saldo promedio mensual. Puede ser utilizada en comercios físicos y online que acepten Visa. También incluye beneficios adicionales como alertas instantáneas, bloqueo/desbloqueo desde la app y promociones exclusivas. 
+","## Características y beneficios de la tarjeta de débito HistoriaCard:
+
+* **Experiencia bancaria completa, segura y sin complicaciones:** ideal para gestionar las finanzas sin necesidad de crédito.
+* **Emisión gratuita al abrir una cuenta en la app:** sin costos adicionales por la tarjeta.
+* **Sin comisiones mensuales ni de manejo de cuenta:** ahorra en gastos adicionales.
+* **Retiros gratuitos en cajeros HistoriaCard:** acceso a efectivo sin costos.
+* **Retiros con un costo de $30 MXN en otros cajeros:** opción flexible para retirar dinero en otros cajeros.
+* **Transferencias SPEI ilimitadas y sin costo:** transfiere dinero de forma rápida y gratuita.
+* **Hasta 4% de interés anual sobre saldo promedio mensual:** gana intereses por tu dinero.
+* **Uso en comercios físicos y online que acepten Visa:** amplia aceptación para realizar compras.
+* **Beneficios adicionales:** 
+    * **Alertas instantáneas:** notificaciones sobre tus transacciones.
+    * **Bloqueo/desbloqueo desde la app:** control total de tu tarjeta.
+    * **Promociones exclusivas:** ofertas y descuentos.
+",Describe las características y beneficios de la tarjeta de débito HistoriaCard.,"emisión gratuita, sin comisiones, retiros gratuitos, transferencias SPEI, 4% de interés, alertas instantáneas",complex,"La tarjeta se emite gratis, sin comisiones, ofrece retiros y transferencias SPEI gratuitas, hasta 4% de interés y alertas instantáneas.",0.0,0.0,0.2933312711143528,0.0,0.0,0.0,0.3462923376406612,0.0
+¿En qué consiste el compromiso de HistoriaCard con el cumplimiento normativo y la ética empresarial?,"HistoriaCard se compromete a cumplir con las regulaciones financieras mexicanas e internacionales. También se compromete con la protección al consumidor y la transparencia, implementando políticas AML/KYC y adhiriéndose a un código de ética empresarial. 
+","HistoriaCard se compromete con el cumplimiento normativo y la ética empresarial a través del cumplimiento de regulaciones financieras mexicanas e internacionales, la protección al consumidor y la transparencia. También implementa políticas AML/KYC y adhiere a un código de ética empresarial. 
+",¿En qué consiste el compromiso de HistoriaCard con el cumplimiento normativo y la ética empresarial?,"regulaciones financieras, protección al consumidor, políticas AML/KYC, código de ética",complex,"Cumple con regulaciones financieras, protege al consumidor, implementa políticas AML/KYC y sigue un código de ética empresarial.",0.0,0.0,0.4416448676211366,0.0,0.0,0.0,0.3971352784745789,0.0
+¿Quién es el CEO actual de HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Quién es el CEO actual de HistoriaCard?,N/A,unanswerable,El texto no proporciona información sobre el CEO actual de HistoriaCard.,0.0,0.0,0.061005457719230355,0.0,0.0,0.0,0.061005457719230355,0.0
+¿Cuál es el número total de empleados de HistoriaCard en 2021?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuál es el número total de empleados de HistoriaCard en 2021?,N/A,unanswerable,No se indica el número total de empleados de HistoriaCard en 2021.,0.0,0.0,0.058703614583341425,0.0,0.0,0.0,0.058703614583341425,0.0
+¿Cuál fue el ingreso neto de HistoriaCard en el último trimestre?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuál fue el ingreso neto de HistoriaCard en el último trimestre?,N/A,unanswerable,No se menciona en el texto el ingreso neto de HistoriaCard en el último trimestre.,0.0,0.0,0.045475829240813025,0.0,0.0,0.0,0.045475829240813025,0.0
+¿Dónde se encuentra la sede central de HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Dónde se encuentra la sede central de HistoriaCard?,N/A,unanswerable,El texto no especifica la ubicación de la sede central de HistoriaCard.,0.0,0.0,0.054787165470623095,0.0,0.0,0.0,0.054787165470623095,0.0
+¿Quiénes son los inversores principales de HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Quiénes son los inversores principales de HistoriaCard?,N/A,unanswerable,No hay información en el texto sobre los inversores principales de HistoriaCard.,0.0,0.0,0.06360120575671213,0.0,0.0,0.0,0.06360120575671213,0.0
+¿Cuál es el porcentaje de mercado que posee HistoriaCard en México?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuál es el porcentaje de mercado que posee HistoriaCard en México?,N/A,unanswerable,El texto no proporciona datos sobre el porcentaje de mercado de HistoriaCard en México.,0.0,0.0,0.05156269994380421,0.0,0.0,0.0,0.05156269994380421,0.0
+¿Cuáles son los competidores directos de HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuáles son los competidores directos de HistoriaCard?,N/A,unanswerable,No se mencionan los competidores directos de HistoriaCard en el texto.,0.0,0.0,0.06655924660794857,0.0,0.0,0.0,0.06655924660794857,0.0
+¿Cuál es la valoración actual de mercado de HistoriaCard?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuál es la valoración actual de mercado de HistoriaCard?,N/A,unanswerable,El texto no incluye información sobre la valoración actual de mercado de HistoriaCard.,0.0,0.0,0.05664409592863685,0.0,0.0,0.0,0.05664409592863685,0.0
+¿Cuántos usuarios activos tiene HistoriaCard actualmente?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Cuántos usuarios activos tiene HistoriaCard actualmente?,N/A,unanswerable,No se indica en el texto el número de usuarios activos de HistoriaCard.,0.0,0.0,0.053101649070147805,0.0,0.0,0.0,0.053101649070147805,0.0
+¿Qué programas de responsabilidad social corporativa tiene HistoriaCard relacionados con la salud?,"No puedo responder completamente a esta pregunta. 
+","No puedo responder completamente a esta pregunta. 
+",¿Qué programas de responsabilidad social corporativa tiene HistoriaCard relacionados con la salud?,N/A,unanswerable,El texto no menciona programas de responsabilidad social corporativa de HistoriaCard relacionados con la salud.,0.0,0.0,0.05310164907014781,0.0,0.0,0.0,0.05310164907014781,0.0

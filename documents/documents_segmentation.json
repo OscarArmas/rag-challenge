@@ -1,0 +1,285 @@
+{
+  "StructuredDocument": {
+    "sections": [
+      {
+        "title": "Introducción a HistoriaCard",
+        "start_line": 1,
+        "end_line": 8,
+        "key_points": [
+          "HistoriaCard es una fintech mexicana fundada en 2018",
+          "Ofrece soluciones innovadoras y accesibles para consumidores mexicanos",
+          "Enfoque en educación financiera, mejora del historial crediticio y manejo responsable de finanzas personales",
+          "Visión y misión: transformar la vida financiera de sus clientes",
+          "Construcción de un camino hacia la inclusión financiera y educación en México"
+        ]
+      },
+      {
+        "title": "Préstamos Personales HistoriaCard",
+        "start_line": 1,
+        "end_line": 12,
+        "key_points": [
+          "Montos de préstamo: Desde $10,000 hasta $100,000 MXN",
+          "Plazos de pago: De 6 a 36 meses, con opción de pago anticipado sin penalización",
+          "Tasa de interés competitiva basada en el perfil crediticio",
+          "Sin comisiones por apertura, pequeñas comisiones por retraso",
+          "Beneficios adicionales: Asesoría financiera personalizada y herramientas de planificación en la app"
+        ]
+      },
+      {
+        "title": "Programa de Recompensas HistoriaCard",
+        "start_line": 1,
+        "end_line": 12,
+        "key_points": [
+          "Canjeo de puntos por efectivo",
+          "Descuentos en compras en comercios afiliados",
+          "Canje de puntos por vuelos y hoteles",
+          "Acceso a experiencias únicas con puntos"
+        ]
+      },
+      {
+        "title": "Testimonios de Clientes: Transformación de Historias de Vida",
+        "start_line": 1,
+        "end_line": 10,
+        "key_points": [
+          "Impacto positivo de HistoriaCard en la vida de los usuarios",
+          "Ejemplo de Ana Martínez: Aprendizaje de manejo responsable del crédito",
+          "Ejemplo de Juan Carlos Hernández: Reconstrucción del historial crediticio"
+        ]
+      },
+      {
+        "title": "Misión y Visión de HistoriaCard",
+        "start_line": 9,
+        "end_line": 18,
+        "key_points": [
+          "Misión: Proporcionar herramientas financieras innovadoras y educativas",
+          "Empoderar a usuarios para mejorar historial crediticio y tomar decisiones financieras informadas",
+          "Ofrecer productos accesibles adaptados a las necesidades de los clientes",
+          "Visión: Convertirse en la fintech líder en México y referente mundial en inclusión financiera",
+          "Establecer un nuevo estándar en el sector financiero",
+          "Brindar herramientas para alcanzar la libertad financiera en un mundo económico cambiante"
+        ]
+      },
+      {
+        "title": "Experiencias Personalizadas de Usuarios",
+        "start_line": 11,
+        "end_line": 16,
+        "key_points": [
+          "Adaptación a necesidades individuales de los usuarios",
+          "Ejemplo de Sofía Ramírez: Uso de herramientas educativas y programa de recompensas"
+        ]
+      },
+      {
+        "title": "Visión General de la App HistoriaCard",
+        "start_line": 13,
+        "end_line": 17,
+        "key_points": [
+          "Interfaz intuitiva y completa para la gestión de finanzas",
+          "Variedad de herramientas y recursos para control financiero"
+        ]
+      },
+      {
+        "title": "Soporte al Cliente HistoriaCard",
+        "start_line": 13,
+        "end_line": 25,
+        "key_points": [
+          "Chat en vivo 24/7",
+          "Centro de ayuda con base de conocimientos",
+          "Sistema de tickets para problemas complejos",
+          "Llamadas de emergencia para situaciones urgentes"
+        ]
+      },
+      {
+        "title": "Alianzas Estratégicas e Innovación",
+        "start_line": 17,
+        "end_line": 30,
+        "key_points": [
+          "Alianzas con comercios y proveedores para ofrecer descuentos y promociones",
+          "Uso de IA para análisis de crédito personalizado",
+          "Implementación de Big Data para recomendaciones personalizadas",
+          "Exploración de tecnología blockchain para mayor transparencia y seguridad"
+        ]
+      },
+      {
+        "title": "Panel de Control de la App",
+        "start_line": 18,
+        "end_line": 27,
+        "key_points": [
+          "Resumen del estado financiero del usuario",
+          "Saldo disponible en cuenta de débito y línea de crédito",
+          "Resumen de movimientos recientes con opciones de etiquetado",
+          "Indicadores financieros: puntaje crediticio y análisis de gastos",
+          "Notificaciones y alertas personalizadas"
+        ]
+      },
+      {
+        "title": "Tarjeta de Crédito HistoriaCard",
+        "start_line": 19,
+        "end_line": 34,
+        "key_points": [
+          "Producto clave para construir o mejorar historial crediticio",
+          "Educa sobre manejo responsable del crédito",
+          "Línea de crédito inicial: $5,000 - $50,000 MXN",
+          "Tasa de interés anual: 24% - 36%",
+          "Pago mínimo mensual: 5% del saldo o $200 MXN",
+          "Sin comisiones por anualidad el primer año, $500 MXN a partir del segundo",
+          "Beneficios adicionales: programa de recompensas, seguro de protección de compras, promociones exclusivas, asistencia en viajes"
+        ]
+      },
+      {
+        "title": "Configuración de la App HistoriaCard",
+        "start_line": 26,
+        "end_line": 36,
+        "key_points": [
+          "Personalización de notificaciones",
+          "Opciones de idioma (español e inglés)",
+          "Ajustes de privacidad y gestión de datos",
+          "Gestión de contraseñas y autenticación en dos pasos"
+        ]
+      },
+      {
+        "title": "Gestión de Perfil de Usuario",
+        "start_line": 28,
+        "end_line": 37,
+        "key_points": [
+          "Actualización de datos personales",
+          "Preferencias de seguridad y autenticación",
+          "Gestión de dispositivos conectados",
+          "Historial de seguridad y accesos"
+        ]
+      },
+      {
+        "title": "Cumplimiento Normativo y Ética",
+        "start_line": 31,
+        "end_line": 40,
+        "key_points": [
+          "Cumplimiento de regulaciones financieras mexicanas e internacionales",
+          "Compromiso con la protección al consumidor y transparencia",
+          "Implementación de políticas AML/KYC",
+          "Adhesión a un código de ética empresarial"
+        ]
+      },
+      {
+        "title": "Tarjeta de Débito HistoriaCard",
+        "start_line": 35,
+        "end_line": 49,
+        "key_points": [
+          "Experiencia bancaria completa, segura y sin complicaciones",
+          "Ideal para manejo de finanzas sin crédito",
+          "Emisión gratuita al abrir cuenta en la app",
+          "Sin comisiones mensuales ni de manejo de cuenta",
+          "Retiros gratuitos en cajeros HistoriaCard, $30 MXN en otros",
+          "Transferencias SPEI ilimitadas y sin costo",
+          "Hasta 4% de interés anual sobre saldo promedio mensual",
+          "Uso en comercios físicos y online que acepten Visa",
+          "Beneficios adicionales: alertas instantáneas, bloqueo/desbloqueo desde app, promociones exclusivas"
+        ]
+      },
+      {
+        "title": "Seguridad y Tecnología en HistoriaCard",
+        "start_line": 37,
+        "end_line": 51,
+        "key_points": [
+          "Cifrado de extremo a extremo",
+          "Autenticación biométrica",
+          "Sistemas de detección de fraudes con IA",
+          "Alertas de seguridad en tiempo real",
+          "Actualizaciones constantes de seguridad"
+        ]
+      },
+      {
+        "title": "Administración de Tarjetas",
+        "start_line": 38,
+        "end_line": 47,
+        "key_points": [
+          "Visualización de detalles de tarjetas",
+          "Bloqueo/desbloqueo instantáneo",
+          "Solicitud de tarjetas adicionales",
+          "Historial detallado de transacciones y categorización de gastos"
+        ]
+      },
+      {
+        "title": "Proyecciones Futuras y Expansión",
+        "start_line": 41,
+        "end_line": 52,
+        "key_points": [
+          "Planes de expansión nacional e internacional",
+          "Desarrollo de nuevos productos financieros",
+          "Estrategias para aumentar la base de usuarios",
+          "Inversión en marketing digital y colaboraciones estratégicas"
+        ]
+      },
+      {
+        "title": "Sistema de Pagos",
+        "start_line": 48,
+        "end_line": 63,
+        "key_points": [
+          "Pago de tarjeta de crédito con opciones flexibles",
+          "Transferencias bancarias nacionales e internacionales",
+          "Pago de servicios y programación de pagos recurrentes",
+          "Pagos entre usuarios de HistoriaCard",
+          "Recargas de tiempo aire para teléfonos móviles"
+        ]
+      },
+      {
+        "title": "Producto Futuro: Préstamos Personales HistoriaCard",
+        "start_line": 50,
+        "end_line": 53,
+        "key_points": [
+          "Planificado para financiar proyectos importantes",
+          "Diseñado para consolidar deudas o enfrentar emergencias imprevistas",
+          "Enfoque en continuar mejorando el historial crediticio de los usuarios",
+          "Características anticipadas (pendientes de detallar)"
+        ]
+      },
+      {
+        "title": "Impacto Social y Responsabilidad de HistoriaCard",
+        "start_line": 52,
+        "end_line": 68,
+        "key_points": [
+          "Promoción de la inclusión financiera en México",
+          "Programas de educación financiera en la comunidad",
+          "Colaboraciones con ONGs para ayudar a comunidades vulnerables",
+          "Compromiso con la sostenibilidad y reducción de huella de carbono"
+        ]
+      },
+      {
+        "title": "Innovación Continua y Tecnologías Futuras",
+        "start_line": 53,
+        "end_line": 60,
+        "key_points": [
+          "Inversión en tecnología y talento para mantener liderazgo en el mercado",
+          "Planea integrar IA avanzada para ofrecer asesoramiento financiero automatizado y altamente personalizado",
+          "Investigación sobre integración de finanzas descentralizadas (DeFi)"
+        ]
+      },
+      {
+        "title": "Educación Financiera",
+        "start_line": 64,
+        "end_line": 75,
+        "key_points": [
+          "Artículos y guías sobre finanzas personales",
+          "Calculadoras financieras interactivas",
+          "Cursos en línea con certificaciones",
+          "Asesoría financiera personalizada para usuarios premium"
+        ]
+      },
+      {
+        "title": "Testimonios de Clientes",
+        "start_line": 69,
+        "end_line": 69,
+        "key_points": [
+          "Introducción a la sección de testimonios de clientes"
+        ]
+      },
+      {
+        "title": "Programa de Recompensas",
+        "start_line": 76,
+        "end_line": 79,
+        "key_points": [
+          "Diseñado para premiar el uso responsable de la tarjeta",
+          "Amplia gama de opciones para redimir puntos"
+        ]
+      }
+    ]
+  }
+}

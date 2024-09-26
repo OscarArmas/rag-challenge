@@ -125,11 +125,12 @@ with col1:
         st.session_state.chat_history.append(
             {"role": "embeddings", "content": response_emb}
         )
-
-        st.session_state.result_df_tfidf = result_df_tfidf
-        st.session_state.result_df_embeddings = retrieve_embeddings_documents_df(
-            collection, question, model
+        retrieve_df_embeddings= retrieve_embeddings_documents_df(
+                    collection, question, model
         )
+        st.session_state.result_df_tfidf = result_df_tfidf
+        st.session_state.result_df_embeddings = retrieve_df_embeddings
+        print(retrieve_df_embeddings)
 
         st.rerun()
 

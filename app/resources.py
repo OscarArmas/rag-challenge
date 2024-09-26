@@ -40,7 +40,7 @@ def process_and_save_tfidf(
     else:
         print("Artefactos no encontrados. Creando nuevos...")
         pipeline = TextPreprocessingPipeline(language="spanish")
-        documents_cleaned = [pipeline.transform(doc) for doc in pdf_texts_dict.values()]
+        documents_cleaned = [pipeline.transform(doc) for doc in pdf_texts_dict]
 
         vectorizer = TfidfVectorizer()
         document_vectors = vectorizer.fit_transform(documents_cleaned)
@@ -144,8 +144,8 @@ def generate_prompt_from_df(df: pd.DataFrame, question: str) -> str:
 
             Instrucciones:
             1. Responde directamente a la pregunta basándote SOLO en el contexto proporcionado.
-            2. Si el contexto no contiene información suficiente, di: "No puedo responder completamente a esta pregunta."
-            3. No inventes información ni hagas suposiciones más allá del contexto dado.
+            2. Si el contexto no contiene información suficiente, di: "No puedo responder completamente a <pregunta>."
+            3. No inventes información ni hagas suposiciones que no esten en el contexto.
             4. No te refieras a ti mismo como "yo" o "me".
             5. Mantén un tono profesional y objetivo.
             6. No sugieras buscar más información o contactar a servicio al cliente.
