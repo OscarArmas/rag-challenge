@@ -1,0 +1,75 @@
+question,expected_keywords,response_expected,response_tf_idf,response_embeddings,type
+¿Cuál es la misión principal de HistoriaCard?,"educación financiera, mejorar historial crediticio",HistoriaCard tiene la misión de mejorar el historial crediticio y educar financieramente a sus usuarios.,"Proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio, gestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. 
+","La misión de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio, gestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. 
+",simple
+¿Qué productos financieros ofrece HistoriaCard?,"tarjeta de crédito, tarjeta de débito",HistoriaCard ofrece una tarjeta de crédito y una tarjeta de débito.,"HistoriaCard ofrece una tarjeta de crédito y una tarjeta de débito. 
+","HistoriaCard ofrece una tarjeta de crédito y una tarjeta de débito. 
+",simple
+¿Cómo contribuye HistoriaCard a la inclusión financiera?,"inclusión financiera, accesibilidad, historial crediticio",HistoriaCard busca incluir financieramente a más mexicanos a través de sus productos.,"HistoriaCard promueve la inclusión financiera en México convirtiéndose en la fintech líder y un referente mundial en la inclusión financiera. 
+","HistoriaCard promueve la inclusión financiera en México al brindar a sus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar. 
+",simple
+¿Cuáles son las características principales de la tarjeta de crédito HistoriaCard?,"línea de crédito, tasa de interés, pagos mínimos","Línea de crédito de $5,000 a $50,000 MXN, con tasas de 24%-36%.","- Línea de crédito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos periódicos basados en el comportamiento crediticio del usuario.
+- Costo de emisión: Gratuito al abrir una cuenta en la app de HistoriaCard, con la tarjeta enviada directamente al domicilio del usuario. 
+","- **Construye o mejora el historial crediticio.**
+- **Ofrece una tarjeta de crédito y una tarjeta de débito.**
+- **Tiene un programa de recompensas.** 
+",simple
+¿Qué beneficios adicionales ofrece HistoriaCard con su tarjeta de crédito?,"recompensas, promociones, seguro de compras","Recompensas, seguros de compra, promociones y asistencia en viajes.","Asesoría financiera personalizada para gestionar el préstamo. 
+","Informacion no encontrada. 
+",simple
+¿Cómo ayuda HistoriaCard a sus usuarios a mejorar su historial crediticio?,"manejo de crédito responsable, herramientas educativas",HistoriaCard educa y proporciona herramientas para el manejo responsable del crédito.,"HistoriaCard ayuda a sus usuarios a mejorar su historial crediticio al brindar educación financiera, enseñando a manejar deudas y promoviendo un manejo responsable de las finanzas personales. 
+","HistoriaCard ayuda a los usuarios a construir o mejorar su historial crediticio con un enfoque en la educación financiera y la promoción de un manejo responsable de las finanzas personales. 
+",medio
+¿Qué tasa de interés ofrece la tarjeta de crédito HistoriaCard?,"24%-36%, pagos puntuales","24%-36%, ajustada según el perfil del usuario.","Tasa de interés anual: 24% - 36%, ajustada según el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual. 
+","24% - 36%, ajustada según el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual. 
+",medio
+¿Qué funciones de seguridad ofrece HistoriaCard en su app?,"bloqueo, alertas, autenticación en dos pasos","HistoriaCard ofrece autenticación biométrica, bloqueo desde la app y alertas en caso de fraude.","HistoriaCard entiende que la seguridad es primordial cuando se trata de finanzas personales. 
+","Informacion no encontrada 
+",medio
+¿Cómo utiliza HistoriaCard la inteligencia artificial en sus servicios?,"IA para análisis crediticio, big data",Utiliza inteligencia artificial y big data para análisis de crédito y personalización.,"HistoriaCard utiliza la inteligencia artificial para ofrecer asesoramiento financiero automatizado y altamente personalizado, así como soluciones personalizadas y altamente eficientes. 
+","HistoriaCard utiliza la inteligencia artificial para ofrecer asesoramiento financiero personalizado, evaluar el riesgo crediticio y proporcionar tasas de interés personalizadas. 
+",medio
+¿Cuáles son los principales objetivos de la expansión internacional de HistoriaCard?,"expansión nacional, mercados emergentes",Expandir su base de usuarios a otras regiones de México y Latinoamérica.,"- Promover la inclusión financiera en México.
+- Expandirse a nuevos mercados internacionales. 
+- Desarrollar una gama de nuevos productos financieros, incluyendo seguros y herramientas de inversión. 
+","HistoriaCard tiene planes de expansión tanto en México como en el extranjero. 
+",medio
+¿Qué alianzas estratégicas ha establecido HistoriaCard?,"alianzas con ONGs, comercios",HistoriaCard ha establecido alianzas con comercios y ONGs para promover sus servicios.,"HistoriaCard ha establecido alianzas con una red extensa de comercios y proveedores de servicios en todo México, organizaciones no gubernamentales, aerolíneas y cadenas hoteleras. 
+","HistoriaCard ha establecido alianzas con una red extensa de comercios y proveedores de servicios en todo México, organizaciones no gubernamentales, aerolíneas y cadenas hoteleras. 
+",medio
+¿Cómo contribuye HistoriaCard al ahorro de sus usuarios con la tarjeta de débito?,"intereses sobre saldo, ahorro automático",La tarjeta de débito ofrece intereses sobre saldo y opciones de ahorro automáticas.,"Informacion no encontrada 
+","Información no encontrada. 
+",medio
+¿Qué herramientas educativas ofrece HistoriaCard en su app?,"artículos, guías, calculadoras","HistoriaCard ofrece guías, calculadoras y cursos en línea para educar financieramente.","La app de HistoriaCard ofrece recursos de educación financiera. 
+","Informacion no encontrada. 
+",medio
+¿Cómo protege HistoriaCard a los usuarios contra fraudes?,"detector de fraudes, alertas de seguridad",Detecta fraudes en tiempo real y envía alertas de seguridad a los usuarios.,"HistoriaCard utiliza sistemas avanzados de inteligencia artificial que monitorean las transacciones en tiempo real para detectar actividades sospechosas y prevenir fraudes. 
+","Información no encontrada. 
+",complejo
+¿Qué opciones de recompensas ofrece HistoriaCard?,"puntos, descuentos, vuelos","HistoriaCard ofrece puntos que pueden canjearse por descuentos, vuelos y experiencias.","Acumula puntos por cada compra, que pueden canjearse por descuentos, productos o experiencias. 
+","Información no encontrada. 
+",complejo
+¿Qué impacto tiene HistoriaCard en la sociedad mexicana?,"inclusión financiera, educación financiera",Impacto positivo en la inclusión financiera y educación de los mexicanos.,"HistoriaCard promueve la inclusión financiera en México y ha cambiado la vida de miles de mexicanos. 
+","HistoriaCard promueve la inclusión financiera en México. 
+",complejo
+¿Qué innovaciones tecnológicas está explorando HistoriaCard?,"IA avanzada, DeFi",Está explorando IA avanzada y finanzas descentralizadas para mejorar sus productos.,"HistoriaCard está explorando la inteligencia artificial avanzada y las finanzas descentralizadas (DeFi). 
+","HistoriaCard está explorando seguros y herramientas de inversión. 
+",complejo
+¿Cómo ofrece HistoriaCard asistencia en viajes para sus usuarios?,"asistencia en viajes, seguro",Incluye seguro de viaje y asistencia en caso de emergencias en el extranjero.,"Incluye seguro de viaje y asistencia en el extranjero, desde emergencias médicas hasta reemplazo de tarjetas. 
+","HistoriaCard ofrece vuelos y hoteles a través de alianzas con aerolíneas y cadenas hoteleras, permitiendo a los usuarios canjear puntos por boletos de avión, noches de hotel y paquetes vacacionales. 
+",complejo
+¿Cuáles son las principales diferencias entre la tarjeta de crédito y la tarjeta de débito HistoriaCard?,"crédito, débito, diferencias de pago","La tarjeta de crédito tiene línea de crédito, mientras que la tarjeta de débito no.","La tarjeta de débito HistoriaCard ofrece una experiencia bancaria completa, mientras que la tarjeta de crédito HistoriaCard es un producto para construir o mejorar el historial crediticio. 
+","La tarjeta de crédito HistoriaCard está diseñada para construir o mejorar el historial crediticio, mientras que la tarjeta de débito HistoriaCard ofrece una experiencia bancaria completa, segura y sin complicaciones. 
+",complejo
+¿Cómo acceden los usuarios a la atención al cliente de HistoriaCard?,"chat en vivo, llamadas de emergencia",HistoriaCard ofrece atención al cliente a través de chat en vivo y llamadas de emergencia.,"Informacion no encontrada 
+","Informacion no encontrada. 
+",simple
+¿Cuáles son las características principales de la criptomoneda que ofrece HistoriaCard?,N/A,No hay información disponible sobre criptomonedas en el documento.,"Informacion no encontrada 
+","La tarjeta de débito HistoriaCard ofrece una experiencia bancaria completa, segura y sin complicaciones. 
+",no contestable
+¿Cómo ayuda HistoriaCard a los usuarios a invertir en bolsa?,N/A,No hay información disponible sobre inversiones en bolsa.,"HistoriaCard ofrece cursos en línea diseñados por expertos en finanzas, que cubren cómo invertir en la bolsa de valores. 
+","Información no encontrada. 
+",no contestable
+¿Qué opciones de hipotecas ofrece HistoriaCard?,N/A,No hay información disponible sobre hipotecas.,"Información no encontrada. 
+","Informacion no encontrada. 
+",no contestable

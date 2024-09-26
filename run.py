@@ -22,7 +22,7 @@ st.set_page_config(page_title=PAGE_TITLE, layout="wide")
 model_geminis = genai.GenerativeModel(
     model_name=MODEL_NAME,
     generation_config=GENERATION_CONFIG,
-    system_instruction="Eres un asistente AI que responde preguntas sobre HistoriaCard. No tienes identidad propia ni acceso a información externa."
+    system_instruction="Eres un asistente AI que responde preguntas sobre HistoriaCard. Todas tus respuestas deben ser como miembro perteneciente a HistoriaCard"
 )
 
 def detect_intent(message):
@@ -61,8 +61,8 @@ pdf_texts_dict, pipeline, vectorizer, document_vectors = load_pdf_and_process()
 st.title(PAGE_TITLE)
 st.markdown(
     """
-Este chatbot compara las respuestas generadas utilizando TF-IDF y Embeddings con Gemini AI. 
-Observa cómo cada método puede producir resultados diferentes para la misma pregunta.
+TF-IDF vs Embeddings with Gemini AI.
+Observe how each method can produce different results for the same question.
 """
 )
 
