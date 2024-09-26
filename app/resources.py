@@ -146,9 +146,14 @@ def generate_prompt_from_df(df: pd.DataFrame, question: str) -> str:
             1. Responde directamente a la pregunta basándote SOLO en el contexto proporcionado.
             2. Si el contexto no contiene información suficiente, di: "No puedo responder completamente a esta pregunta."
             3. No inventes información ni hagas suposiciones más allá del contexto dado.
-            4. No te refieras a ti mismo como "yo" o "me". No uses frases como "la información que me has proporcionado".
+            4. No te refieras a ti mismo como "yo" o "me".
             5. Mantén un tono profesional y objetivo.
             6. No sugieras buscar más información o contactar a servicio al cliente.
+
+            Ejemplo:
+            Pregunta: ¿Cuál es la tasa de interés de la tarjeta de crédito HistoriaCard?
+            Contexto: ["La tarjeta de crédito HistoriaCard ofrece una tasa de interés anual del 24% al 36%, ajustada según el perfil crediticio del usuario.", "HistoriaCard proporciona herramientas financieras innovadoras y educativas."]
+            Respuesta: En HistoriaCard ofrecemos una tasa de interés anual que va del 24% al 36%.
         """,
     )
 
